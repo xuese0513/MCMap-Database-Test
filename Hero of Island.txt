@@ -1,0 +1,10 @@
+map-id: dreamcity_hero_of_island
+name: 島國勇者 Hero of Island
+tags: RPG
+mc-version: 1.16.5
+release-date: 2020-06-07
+update-date: 2021-06-06
+download-links: https://go.dreamcity.studio/Hero_of_Island
+reference-link: https://www.dreamcity.studio/map/rpg/Hero_of_Island
+preview-icon: https://www.dreamcity.studio/map/rpg/images/picture/17/1.jpg
+description: 夢都首張RPG地圖，隨著克拉特的腳步，讓我們一步步揭開諾斯克島，背後那神秘的面紗
