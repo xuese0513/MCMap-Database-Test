@@ -1,0 +1,10 @@
+map-id: 
+name: 
+tags: 
+mc-version: 
+release-date: 
+update-date: 
+download-links: 
+reference-link: 
+preview-icon: 
+description: 
